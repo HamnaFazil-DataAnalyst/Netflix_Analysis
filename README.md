@@ -84,8 +84,8 @@ This project explores Netflix's content dataset using **Power BI** to identify t
 
 Aspiring Data Analyst | Business Intelligence Enthusiast
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: https://www.linkedin.com/in/hamna-fazil-b95279205/
+- GitHub: https://github.com/HamnaFazil-DataAnalyst
 
 ---
 
